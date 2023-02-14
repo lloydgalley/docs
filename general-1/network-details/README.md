@@ -9,4 +9,4 @@
   * official RPC: [https://mainnet-rpc.alltra.global/](https://mainnet-rpc.alltra.global/)​
 * Explorer: [http://alltra.global/](http://alltra.global/)​
 
-Please refer to [quickstart](https://github.com/fkt20/FAKTNetwork/#using-quickstart) if you wish to run your own node.
+Please refer to [node-example](https://github.com/lloydgalley/ALLNetwork/tree/master/node-example) if you wish to run your own node.
