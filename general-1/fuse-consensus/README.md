@@ -2,15 +2,15 @@
 
 Consensus is a fault-tolerant mechanism that is used in blockchain systems to achieve the necessary agreement on the single state of the network. Alltra network is using a [Delegated Proof of Stake](https://en.bitcoinwiki.org/wiki/DPoS) (DPoS) consensus model. DPoS is a variation of [Proof of Stake](https://en.bitcoinwiki.org/wiki/Proof-of-stake) consensus. In PoS there are a set of validators that are responsible for keeping the network updated and validating the network's state. They do this in turns, every validator has their turn in line. On their turn the validator updates the network's state, and the rest of the validators check that the update is valid.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 Consensus contract is used to manage the list of the network validators and delegators
 
 BlockReward contract is calculates the reward amount that validators and delegators will receive on each block validation. The reward size is proportional to validator's stake.
 
-With Voting contract validators are vote on various changes on these 3 base level contracts. All those contracts are proxied with implementation that handles the logic. The implementations can be changed only by the Voting process.&#x20;
+With Voting contract validators are vote on various changes on these 3 base level contracts. All those contracts are proxied with implementation that handles the logic. The implementations can be changed only by the Voting process.
 
-The bridge is used to transfer the Alltra native token between Alltra and Ethereum networks.&#x20;
+The bridge is used to transfer the Alltra native token between Alltra and Ethereum networks.
 
 ## [Consensus - 0x2aC1a9CaE1E1edBE4Ffd9134342a25C96283B07e](https://alltra.global/address/0x2aC1a9CaE1E1edBE4Ffd9134342a25C96283B07e)
 
@@ -57,4 +57,3 @@ maximum ballot duration (cycles) = 14
 ## [Proxy Storage](https://alltra.global/address/0x23D8634ED1B2662dC96FcE6208fde93258731333)
 
 This contract is responsible for holding network contracts implementation addresses and upgrading them if necessary (via voting).
-

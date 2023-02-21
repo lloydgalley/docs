@@ -1,0 +1,2 @@
+# Ethereum ↔ Alltra GoodDollar Token
+

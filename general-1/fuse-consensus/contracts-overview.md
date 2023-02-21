@@ -1,3 +1,3 @@
 # Contracts Overview
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (3).png>)
