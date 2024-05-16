@@ -10,7 +10,7 @@ How to Stake Alltra:
 
 **Step 1:**
 
-Navigate to staking.alltra.global and login to your wallet through metamask. Make sure you are on Alltra network. If you are not please follow the instructions [**here**](https://docs.alltra.global/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask).
+Navigate to staking.alltra.global and login to your wallet through metamask. Make sure you are on Alltra network. If you are not please follow the instructions [**here**](https://docs.alltra.global/how-to-add-alltra-to-your-metamask).
 
 ![](../.gitbook/assets/0%20%284%29.png)
 

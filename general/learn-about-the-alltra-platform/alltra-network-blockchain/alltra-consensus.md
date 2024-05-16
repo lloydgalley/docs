@@ -12,7 +12,7 @@ In order to participate in securing the network consensus, a node operator must 
 
 The validator who publishes a block agreed upon during a given consensus round is rewarded by the network protocol in newly minted ALL tokens. They also receive the fees users paid for the transactions included into the block.
 
-Over time, validators can expect to publish a share of blocks equal to their share of the overall stake. Since ALL uses dPoS, a validator can increase their share by attracting ALL tokens from delegators. The mechanics of delegation on ALL are discussed in more detail on the [following page](https://docs.alltra.global/general/fuse-network-blockchain/validators-and-delegation).
+Over time, validators can expect to publish a share of blocks equal to their share of the overall stake. Since ALL uses dPoS, a validator can increase their share by attracting ALL tokens from delegators. The mechanics of delegation on ALL are discussed in more detail on the [following page](https://docs.alltra.global/general/learn-about-the-alltra-platform/alltra-network-blockchain/validators-and-delegation).
 
 Validators who violate the consensus rules (by, for instance, not revealing random numbers) can expect their stake (including the delegators' contribution) to be frozen. This provides a strong incentive for validators to behave in the desired manner.
 
@@ -22,6 +22,4 @@ Alltra currently uses Parity's AuRa (Authority Round) [consensus model](https://
 
 In this model, the validators take turns signing blocks. A signed block is broadcast to all validators, and if the majority agree it is valid, it is added to the chain. A new block is added every 5 seconds, regardless of whether any transactions occurred during that time.
 
-Although, in theory, achieving transaction finality in this model may take some time, for practical purposes, a transaction on Alltra can be considered finalized after a single block confirmation.  
-
-\
+Although, in theory, achieving transaction finality in this model may take some time, for practical purposes, a transaction on Alltra can be considered finalized after a single block confirmation.
