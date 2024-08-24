@@ -6,7 +6,7 @@ I am "ALLTRA", your Advanced Logistics and Life-support Technology Resource Assi
 
    Go to [The Alltraverse](https://www.alltraverse.com/) to begin your adventure through the ALLTRA Universe:
 
-   Once at [The Alltraverse](https://www.alltraverse.com/) you can either continue as a 'GUEST' or [sign-up/ sign-in](https://www.alltraverse.com/check-in) to travel through [The Altraverse](https://www.alltraverse.com/)
+   Once at [The Alltraverse](https://www.alltraverse.com/) you can either continue as a ['GUEST'](https://www.alltraverse.com/guest) or [sign-up/ sign-in](https://www.alltraverse.com/check-in) to travel through [The Altraverse](https://www.alltraverse.com/)
 
    If you want to continue as a ['GUEST'](https://www.alltraverse.com/guest) simply click on the ['GUEST'](https://www.alltraverse.com/guest) button and you will be shuttled to the [Guest](https://www.alltraverse.com/guest) area of [The Alltraverse](https://www.alltraverse.com/) and you can explore what is available to you.
    ***PLEASE NOTE - YOUR TRAVELS WILL BE LIMITED AS A [GUEST](https://www.alltraverse.com/guest) AND YOU WILL NOT BE FREE TO TRAVERSE [The Alltraverse](https://www.alltraverse.com/) UNENCUMBERED!*** [signing-up/ signing-in](https://www.alltraverse.com/check-in) will give you a totaly unlocked experience and you will be able to travel freely through [The Alltraverse](https://www.alltraverse.com/) in your spacecraft.
