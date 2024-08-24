@@ -1,10 +1,10 @@
 ---
-description: Steps on deploying a smart contract on Fusenet through Remix.
+description: Steps on deploying a smart contract on the ALLTRA Smartchain through Remix.
 ---
 
 # Deploying smart contract on Fusenet
 
-Alltra is an EVM compatible network, every tool for Ethereum can be used for the Alltra network too.
+The Alltra ecosystem is an EVM compatible network, every tool for Ethereum can be used for the Alltra Smartchain network too.
 
 Remix is a powerful, open source tool that helps you write Solidity contracts straight from the browser. Written in JavaScript, Remix supports both usage in the browser and locally.
 
@@ -12,9 +12,9 @@ Remix also supports testing, debugging and deploying of smart contracts and much
 
  **Pre-requisites:**
 
-Since we interact with remix using Metamask, you need to change the network to Alltra network by adding a custom RPC. Please follow the steps in [this tutorial](https://docs.alltra.global/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask) to do that.
+Since we interact with remix using Metamask, you need to change the network to the Alltra Smartchain network by adding a custom RPC. Please follow the steps in [this tutorial](https://docs.alltra.global/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask) to do that.
 
-You need to have a small balance of ALL on the Fusenet wallet you are using which will be used as Gas for the transactions.
+You need to have a small balance of ALL Coin on the ALLTRA Smatchain in your Metamask wallet you are using which will be used as Gas for the transactions.
 
  **Step 1:**
 
