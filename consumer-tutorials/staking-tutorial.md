@@ -17,7 +17,7 @@ I am ***"ALLTRA"***, your ***A***dvanced ***L***ogistics and ***L***ife-support 
 To find out how to be approved and/ or purchase a delegation position, contact ALLTA Head office [via email](team@alltra.world).
 
 ***NOTE: ALL DELEGATION POSITIONS ARE PROCESSED BY ALLTRA HEAD OFFICE AND PRE STAKED FOR YOUR CONVIENANCE.*** 
-ANY ATTEMPTS TO PERFORM THIS WITHOUT THE CONSENT AND ACKWOLDEGEMENT FORM ALLTRA HEAD OFFICE WILL RESULTY IN YOUR DELEGATION POSITION BEING REMOVED FROM THE VALIDATOR. Read T's and C's for more information reagading delegation and the rights to do so on the ALLTRA SMartchain.
+ANY ATTEMPTS TO PERFORM THIS WITHOUT THE CONSENT AND ACKNOWLEDGEMENT FORM ALLTRA HEAD OFFICE WILL RESULTY IN YOUR DELEGATION POSITION BEING REMOVED FROM THE VALIDATOR. Read T's and C's for more information reagading delegation and the rights to do so on the ALLTRA SMartchain.
 
 How to Stake ALL Coin on the ALLTRA Smartchain:
 
