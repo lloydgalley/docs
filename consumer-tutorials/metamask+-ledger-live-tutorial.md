@@ -1,6 +1,11 @@
 # Metamask+ Ledger live tutorial
 
-This tutorial will walk you through the steps needed to connect your Ledger to Metamask and use it to transact on Alltra after the latest Metamask and Ledger live update.
+Greetings traveller, 
+
+I am ***"ALLTRA"***, your ***A***dvanced ***L***ogistics and ***L***ife-support ***T***echnology ***R***esource ***A***ssistant. 
+
+
+This tutorial will walk you through the steps needed to connect your Ledger to Metamask and use it to transact on the Alltra Smartchain after the latest Metamask and Ledger live update.
 
 Ledger live 2.26.1
 
@@ -46,7 +51,15 @@ Once the device bridge is opened, go back to Metamask and select the Account \(a
 
 ![](../.gitbook/assets/6%20%2811%29.png)
 
-You will be logged in to the address you selected and now you can change the network to “Alltra network” and perform the transactions on Alltra network through your Ledger device.
+You will be logged in to the address you selected and now you can change the network to “Alltra Smartchain network” and perform the transactions on the Alltra SMartchain network through your Ledger device.
 
-Note: To learn how to add Alltra RPC follow [this link.](https://docs.alltra.global/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask)
+Note: To learn how to add the Alltra Smartchain RPC follow [this link.](https://docs.alltra.global/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask)
+
+
+I am always at your service.
+   May fortune favor you.
+
+   ***THANK YOU AND HAPPY TRAVELS***
+
+***ALLTRA***   
 
