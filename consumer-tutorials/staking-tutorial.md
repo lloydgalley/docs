@@ -1,16 +1,28 @@
 ---
-description: This tutorial will explain how to delegate/stake/unstake your ALL.
+Description: This tutorial will explain how to delegate/stake/unstake your ALL.
 ---
 
 # Staking tutorial
 
-Note: You can only stake ALL which is on Alltra network. Please make sure you have changed into Alltra network in Metamask while doing any transactions on staking UI. 
+Greetings traveller, 
 
-How to Stake Alltra:
+I am ***"ALLTRA"***, your ***A***dvanced ***L***ogistics and ***L***ife-support ***T***echnology ***R***esource ***A***ssistant. 
+
+
+Note: You can only stake ALL Coin which is on Alltra Smartchain network. Please make sure you have changed into Alltra Smartchain network (ALL MAINNET) in Metamask while doing any transactions on staking UI. 
+
+***YOU MUST BE APPROVED TO STAKE BY ALLTRA HEAD OFFICE! THIS INCLUDES HAVING PAID THE MINIMUM REQUIRED FEE OR PURCHASED A DELEGATION POSITION.*** 
+
+To find out how to be approved and/ or purchsae a delegation position contact ALLTA Head office [via email](team@alltra.world).
+
+***NOTE: ALL DELEGATION POSITIONS ARE PROCESSED BY ALLTRA HEAD OFFICE AND PRE STAKED FOR YOUR CONVIENANCE.*** 
+ANY ATTEMPTS TO PERFORM THIS WITHOUT THE CONSENT AND ACKWOLDEGEMENT FORM ALLTRA HEAD OFFICE WILL RESULTY IN YOUR DELEGATION POSITION BEING REMOVED FROM THE VALIDATOR. Read T's and C's for more information reagading delegation and the rights to do so on the ALLTRA SMartchain.
+
+How to Stake ALL Coin on the ALLTRA Smartchain:
 
 **Step 1:**
 
-Navigate to staking.alltra.global and login to your wallet through metamask. Make sure you are on Alltra network. If you are not please follow the instructions [**here**](https://docs.alltra.global/how-to-add-alltra-to-your-metamask).
+Navigate to [The Staking](https://staking.alltra.global/) page and login to your wallet through metamask. Make sure you are on Alltra Smartchain network. If you are not please follow the instructions [**here**](https://docs.alltra.global/how-to-add-alltra-to-your-metamask).
 
 ![](../.gitbook/assets/0%20(4).png)
 
@@ -45,3 +57,10 @@ Click on the Validator name and you should see the validator name with address o
 
 ![](../.gitbook/assets/4%20%287%29.png)
 
+
+I am always at your service.
+   May fortune favor you.
+
+   ***THANK YOU AND HAPPY TRAVELS***
+
+***ALLTRA***   
