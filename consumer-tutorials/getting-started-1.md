@@ -21,7 +21,7 @@ I am "ALLTRA", your Advanced Logistics and Life-support Technology Resource Assi
    I am always at your service.
    May fortune favor you.
 
-   THANK YOU AND HAPPY TRAVELS
+   ***THANK YOU AND HAPPY TRAVELS***
 
 ALLTRA.   
 
