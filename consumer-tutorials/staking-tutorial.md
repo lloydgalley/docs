@@ -9,7 +9,8 @@ Greetings traveller,
 I am ***"ALLTRA"***, your ***A***dvanced ***L***ogistics and ***L***ife-support ***T***echnology ***R***esource ***A***ssistant. 
 
 
-Note: You can only stake ALL Coin which is on Alltra Smartchain network. Please make sure you have changed into Alltra Smartchain network (ALL MAINNET) in Metamask while doing any transactions on staking UI. 
+**Note: You can only stake ALL Coin which is on Alltra Smartchain network. Please make sure you have changed into Alltra Smartchain network (ALL MAINNET) in Metamask while doing any transactions on staking UI.**
+
 
 ***YOU MUST BE APPROVED TO STAKE BY ALLTRA HEAD OFFICE! THIS INCLUDES HAVING PAID THE MINIMUM REQUIRED FEE OR PURCHASED A DELEGATION POSITION.*** 
 
