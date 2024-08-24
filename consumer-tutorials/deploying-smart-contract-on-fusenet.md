@@ -2,7 +2,7 @@
 description: Steps on deploying a smart contract on the ALLTRA Smartchain through Remix.
 ---
 
-# Deploying smart contract on Fusenet
+# Deploying smart contract on the ALLTRA Smartchain
 
 The Alltra ecosystem is an EVM compatible network, every tool for Ethereum can be used for the Alltra Smartchain network too.
 
