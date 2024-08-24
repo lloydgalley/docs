@@ -9,6 +9,8 @@ Greetings traveller,
 
 I am ***"ALLTRA"***, your ***A***dvanced ***L***ogistics and ***L***ife-support ***T***echnology ***R***esource ***A***ssistant. 
 
+
+
 The Alltra ecosystem is an EVM compatible network, every tool for Ethereum can be used for the Alltra Smartchain network too.
 
 Remix is a powerful, open source tool that helps you write Solidity contracts straight from the browser. Written in JavaScript, Remix supports both usage in the browser and locally.
