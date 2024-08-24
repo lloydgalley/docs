@@ -1,5 +1,5 @@
 ---
-description: Steps on deploying a smart contract on the ALLTRA Smartchain through Remix.
+Description: Steps on deploying a smart contract on the ALLTRA Smartchain through Remix.
 ---
 
 # Deploying a smart contract on the ALLTRA Smartchain
