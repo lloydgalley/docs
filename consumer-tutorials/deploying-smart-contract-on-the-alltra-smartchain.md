@@ -21,7 +21,7 @@ Remix also supports testing, debugging and deploying of smart contracts and much
 
 Since we interact with remix using Metamask, you need to change the network to the Alltra Smartchain network by adding a custom RPC. Please follow the steps in [this tutorial](https://docs.alltra.global/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask) to do that.
 
-You need to have a small balance of ALL Coin on the ALLTRA Smatchain in your Metamask wallet you are using which will be used as Gas for the transactions. You can purchase ALL Coin and import the ALLTRA Smartchain (ALL MAINNET) from [HERE](https://www.alltraverse.com/express-checkout)
+You need to have a small balance of ALL Coin on the ALLTRA Smatchain in your Metamask wallet you are using which will be used as Gas for the transactions. You can purchase ALL Coin and import the ALLTRA Smartchain (ALL MAINNET) from [HERE.](https://www.alltraverse.com/express-checkout)
 
  **Step 1:**
 
