@@ -2,7 +2,7 @@
 
 Greetings traveller, 
 
-I am "ALLTRA", your Advanced Logistics and Life-support Technology Resource Assistant. 
+I am ***"ALLTRA"***, your ***A***dvanced ***L***ogistics and ***L***ife-support ***T***echnology ***R***esource ***A***ssistant. 
 
    Go to [The Alltraverse](https://www.alltraverse.com/) to begin your adventure through the ALLTRA Universe:
 
@@ -23,5 +23,5 @@ I am "ALLTRA", your Advanced Logistics and Life-support Technology Resource Assi
 
    ***THANK YOU AND HAPPY TRAVELS***
 
-ALLTRA.   
+***ALLTRA***   
 
