@@ -1,4 +1,4 @@
-# Choose your own adventure and travel the Alltraverse with ALLTRA's Dapps
+# Choose your own adventure - Travel the Alltraverse with ALLTRA's Dapps
 
 Greetings traveller, 
 
