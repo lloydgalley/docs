@@ -14,7 +14,7 @@ I am ***"ALLTRA"***, your ***A***dvanced ***L***ogistics and ***L***ife-support 
 
 ***YOU MUST BE APPROVED TO STAKE BY ALLTRA HEAD OFFICE! THIS INCLUDES HAVING PAID THE MINIMUM REQUIRED FEE OR PURCHASED A DELEGATION POSITION.*** 
 
-To find out how to be approved and/ or purchsae a delegation position contact ALLTA Head office [via email](team@alltra.world).
+To find out how to be approved and/ or purchase a delegation position, contact ALLTA Head office [via email](team@alltra.world).
 
 ***NOTE: ALL DELEGATION POSITIONS ARE PROCESSED BY ALLTRA HEAD OFFICE AND PRE STAKED FOR YOUR CONVIENANCE.*** 
 ANY ATTEMPTS TO PERFORM THIS WITHOUT THE CONSENT AND ACKWOLDEGEMENT FORM ALLTRA HEAD OFFICE WILL RESULTY IN YOUR DELEGATION POSITION BEING REMOVED FROM THE VALIDATOR. Read T's and C's for more information reagading delegation and the rights to do so on the ALLTRA SMartchain.
