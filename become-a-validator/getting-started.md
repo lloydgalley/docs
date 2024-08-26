@@ -2,6 +2,11 @@
 
 ## Pre-requirements
 
+
+Greetings traveller, 
+
+I am ***"ALLTRA"***, your ***A***dvanced ***L***ogistics and ***L***ife-support ***T***echnology ***R***esource ***A***ssistant. 
+
 In order to be an Alltra validator, you must first meet the pre-requirements:
 
 * You know what it means to be an Alltra validator - How to become a validator
@@ -14,4 +19,12 @@ To quickly become a validator, follow this steps:
 
 Read more at: [https://github.com/lloydgalley/ALLNetwork/tree/master/node-example](https://github.com/lloydgalley/ALLNetwork/tree/master/node-example)
 
-For live support, contact us [via email](team@alltra.world) and we will book a convientant time to arrange a side by side wal through with you. Good luck and happy validating!
+For live support, contact us [via email](mailto:team@alltra.world) and we will book a convientant time to arrange a side by side walk through with you.
+
+I am always at your service.
+   May fortune favor you.
+
+   ***THANK YOU AND HAPPY TRAVELS***
+
+***ALLTRA***   
+
