@@ -22,11 +22,11 @@
     * [Alltra Improvement Proposals (FIPs)](general/learn-about-the-alltra-platform/alltra-governance-and-development/alltra-improvement-proposals-fips.md)
   * [Wallets supporting Alltra](general/learn-about-the-alltra-platform/wallets-supporting-alltra.md)
 * [Alltra for Business](general/fuse-for-business.md)
-* [Things you can do on Alltra](general/things-you-can-do-on-fuse/README.md)
-  * [Interacting with the Alltra Blockchain](general/things-you-can-do-on-fuse/interacting-with-the-fuse-network-blockchain.md)
-  * [Alltra Ecosystem](general/things-you-can-do-on-fuse/fuse-ecosystem.md)
-  * [Community](general/things-you-can-do-on-fuse/community.md)
-  * [Grants and Bounties](general/things-you-can-do-on-fuse/grants-and-bounties.md)
+* [Things you can do on Alltra](general/things-you-can-do-on-alltra/README.md)
+  * [Interacting with the Alltra Blockchain](general/things-you-can-do-on-alltra/interacting-with-the-alltra-blockchain.md)
+  * [Alltra Ecosystem](general/things-you-can-do-on-alltra/alltra-ecosystem.md)
+  * [Community](general/things-you-can-do-on-alltra/community.md)
+  * [Grants and Bounties](general/things-you-can-do-on-alltra/grants-and-bounties.md)
 * [Alltra Mobile Infrastructure Use Cases](general/use-cases.md)
 
 ## Developers <a href="#general" id="general"></a>
