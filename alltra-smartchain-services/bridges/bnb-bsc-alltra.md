@@ -39,10 +39,10 @@ Send native BNB tokens to the home bridge contract. You will then receive an equ
 
 **To send tokens from the [Alltra Smartchain](https://alltra.global) network:**
 
-1. Approve the "BNB on Alltra" TL20 token to be spent by the Foreign bridge.
+1. Approve the "BNB on Alltra" ACR20 token to be spent by the Foreign bridge.
 2. Call the `relayTokens` function on the bridge contract.
 
-The `relayTokens` method will lock the TL20 tokens on the foreign bridge. After a few confirmations, an equal amount of the BNB native token will be released from the home bridge contract on BSC.
+The `relayTokens` method will lock the ACR20 tokens on the foreign bridge. After a few confirmations, an equal amount of the BNB native token will be released from the home bridge contract on BSC.
 
 ---
 
