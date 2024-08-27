@@ -1,10 +1,10 @@
 ---
 description: >-
-  The Alltra ↔ BSC TL20 bridge is used to relay TL20 tokens between [Alltra Smartchain](https://alltra.global) and
+  The Alltra ↔ BSC ACR20 bridge is used to relay ACR20 tokens between [Alltra Smartchain](https://alltra.global) and
   Binance Smart Chain networks.
 ---
 
-# Multi TL20: BSC ↔ [Alltra Smartchain](https://alltra.global)
+# Multi ACR20: BSC ↔ [Alltra Smartchain](https://alltra.global)
 
 Greetings, traveler,
 
@@ -36,17 +36,17 @@ Currently, only WETH is supported for this bridge, with more tokens coming soon.
 
 **To send tokens from the BSC network:**
 
-1. Approve the TL20 tokens to be spent by the Foreign TL20 bridge.
+1. Approve the ACR20 tokens to be spent by the Foreign ACR20 bridge.
 2. Call the `relayTokens` function on the bridge contract.
 
-The `relayTokens` method will lock the TL20 tokens on the foreign bridge. An equal amount of the [Alltra Smartchain](https://alltra.global) TL20 token will then be sent from the home bridge contract.
+The `relayTokens` method will lock the ACR20 tokens on the foreign bridge. An equal amount of the [Alltra Smartchain](https://alltra.global) ACR20 token will then be sent from the home bridge contract.
 
 **To send tokens from the Alltra network:**
 
-1. Approve the TL20 tokens to be spent by the Home TL20 bridge.
+1. Approve the ACR20 tokens to be spent by the Home ACR20 bridge.
 2. Call the `relayTokens` function on the bridge contract.
 
-The `relayTokens` method will lock the bridged tokens on the home bridge. An equal amount of the paired TL20 token will then be sent from the foreign bridge contract.
+The `relayTokens` method will lock the bridged tokens on the home bridge. An equal amount of the paired ACR20 token will then be sent from the foreign bridge contract.
 
 ---
 
