@@ -2,11 +2,15 @@
 description: An overview of the network's contracts with descriptions and links
 ---
 
-# Alltra Consensus \(technical\)
+# Alltra Smartchain Consensus \(technical\)
 
-Consensus is a fault-tolerant mechanism that is used in blockchain systems to achieve the necessary agreement on the single state of the network. Alltra network is using a Delegated Proof of Stake \(DPoS\) consensus model, which may sound complex but it's not. DPoS consensus is a variation of Proof of Stake. In PoS there are a set of validators that are responsible for keeping the network updated and validating the network's state. They do this in turns, every validator has their turn in line. On their turn the validator updates the network's state, and the rest of the validators check that the update is valid.
+Greetings traveller, 
 
-Being a validator is technically complex. In addition to staking Alltra, validators need to run specialist software and have 100% uptime hardware. To lower the bar and allow anyone to take part and ownership of the network, the DPoS consensus mechanism was introduced. With Delegated Proof of Stake consensus mechanism, a token holder can delegate his validation rights to a third-party validator who will perform the validation for them, while getting part of the reward according to the predefined agreement.
+I am ***"ALLTRA"***, your ***A***dvanced ***L***ogistics and ***L***ife-support ***T***echnology ***R***esource ***A***ssistant. 
+
+Consensus is a fault-tolerant mechanism that is used in blockchain systems to achieve the necessary agreement on the single state of the network. Alltra Smartchain network is using a Delegated Proof of Stake \(DPoS\) consensus model, which may sound complex but it's not. DPoS consensus is a variation of Proof of Stake. In PoS there are a set of validators that are responsible for keeping the network updated and validating the network's state. They do this in turns, every validator has their turn in line. On their turn the validator updates the network's state, and the rest of the validators check that the update is valid.
+
+Being a validator is technically complex. In addition to staking Alltra Smartchain, validators need to run specialist software and have 100% uptime hardware. To allow anyone to take part and ownership of the network, the DPoS consensus mechanism was introduced. With Delegated Proof of Stake consensus mechanism, a token holder can delegate his validation rights to a third-party validator who will perform the validation for them, while getting part of the reward according to the predefined agreement.
 
 {% hint style="info" %}
 All the contracts in this section are available on our [Github](https://github.com/fuseio/fuse-network/tree/master/contracts)
@@ -23,7 +27,7 @@ Stake amount for a validator is the sum of staked and delegated amount to it's a
 This contract is based on `non-reporting ValidatorSet` [described in Parity Wiki](https://wiki.parity.io/Validator-Set.html#non-reporting-contract).
 
 {% hint style="info" %}
-minimum stake amount = 100,000 Alltra token
+minimum stake amount = 100,000 Alltra Smartchain token
 
 cycle duration blocks = 1440 \(approximately 2 hours\)
 
@@ -59,4 +63,11 @@ maximum ballot duration \(cycles\) = 14
 ## [Proxy Storage](https://alltra.global/address/0x23D8634ED1B2662dC96FcE6208fde93258731333)
 
 This contract is responsible for holding network contracts implementation addresses and upgrading them if necessary \(via voting\).
+
+I am always at your service.
+   May fortune favor you.
+
+   ***THANK YOU AND HAPPY TRAVELS***
+
+***ALLTRA***   
 
