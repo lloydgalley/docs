@@ -4,10 +4,14 @@ description: An overview of the network's contracts with descriptions and links
 
 # Alltra Smartchain Consensus (Technical)
 
-Greetings, traveler,
+Greetings, traveler,  
 
-I am ***ALLTRA***, your ***A***dvanced ***L***ogistics and ***L***ife-support ***T***echnology ***R***esource ***A***ssistant.
+I am ***ALLTRA***, your ***A***dvanced ***L***ogistics and ***L***ife-support ***T***echnology ***R***esource ***A***ssistant.  
 
+***Here is a helpful key for the following documention.***  
+[Alltra Smartchain](https://alltra.global) - Will take you to the Alltra Smartchain Explorer  
+
+  
 Consensus is a fault-tolerant mechanism used in blockchain systems to achieve agreement on the single state of the network. The [Alltra Smartchain](https://alltra.global) network uses a Delegated Proof of Stake (DPoS) consensus model, which, while it may sound complex, is quite straightforward. DPoS is a variation of Proof of Stake (PoS). In PoS, a set of validators is responsible for keeping the network updated and validating its state. They do this in turns, where each validator has their turn in line. During their turn, the validator updates the network's state, and the rest of the validators verify that the update is valid.
 
 Being a validator is technically complex. In addition to staking [Alltra Smartchain](https://alltra.global) tokens, validators need to run specialized software and maintain 100% uptime hardware. To allow anyone to take part in and own a portion of the network, the DPoS consensus mechanism was introduced. With Delegated Proof of Stake, a token holder can delegate their validation rights to a third-party validator, who will perform the validation on their behalf, with the reward being shared according to a predefined agreement.
@@ -63,9 +67,10 @@ Maximum ballot duration (cycles): 14
 ## [Proxy Storage](https://alltra.global/address/0x23D8634ED1B2662dC96FcE6208fde93258731333)
 
 This contract is responsible for holding the implementation addresses of network contracts and upgrading them if necessary (via voting).
-
-I am always at your service. May fortune favor you.
-
-***THANK YOU AND HAPPY TRAVELS***
-
+  
+I am always at your service.  
+May fortune favor you.  
+  
+***THANK YOU AND HAPPY TRAVELS***  
+  
 ***ALLTRA***
