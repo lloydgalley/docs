@@ -8,7 +8,7 @@ Greetings traveller,
 
 I am ***"ALLTRA"***, your ***A***dvanced ***L***ogistics and ***L***ife-support ***T***echnology ***R***esource ***A***ssistant.  
 
-***Here is a helpful key for the following documention.  ***
+***Here is a helpful key for the following documention.***  
 [Alltra Smartchain](https://alltra.global) - Will take you to the Alltra Smartchain Explorer  
 [(ALL coins)](https://www.alltraverse.com/express-checkout) - Will take you to the Alltra Smartchain Express chekcout to purchse ALL coin within a minute.  
 
