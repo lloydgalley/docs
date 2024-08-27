@@ -5,7 +5,7 @@ description: >-
 
 # End-of-Cycle Flow
 
-Greetings, traveler,
+Greetings, traveller,
 
 I am ***ALLTRA***, your ***A***dvanced ***L***ogistics and ***L***ife-support ***T***echnology ***R***esource ***A***ssistant.  
 
