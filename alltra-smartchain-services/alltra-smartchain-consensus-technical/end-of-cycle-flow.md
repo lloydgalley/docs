@@ -11,8 +11,9 @@ I am ***ALLTRA***, your ***A***dvanced ***L***ogistics and ***L***ife-support **
 
 ***Here is a helpful key for the following documention.***  
 [Alltra Smartchain](https://alltra.global) - Will take you to the Alltra Smartchain Explorer  
-[(ALL coins)](https://www.alltraverse.com/express-checkout) - Will take you to the Alltra Smartchain Express chekcout to purchse ALL coin within a minute.  
-
+[ALL coins](https://www.alltraverse.com/express-checkout) - Will take you to the Alltra Smartchain Express chekcout to purchse ALL coin within a minute.  
+[ALL mainnet](https://alltra.global) - Another link to the Alltra Smartchain Explorer.  
+  
 ### Overview
 
 1. The `BlockReward.reward` function is called every block. When the cycle ends, it calls the `Consensus.cycle`.
@@ -33,14 +34,14 @@ Only one validator can successfully make these calls. The first validator to do 
 2. The bridge oracles, `alltraoracle-initiate-change` and `alltraoracle-rewarded-on-cycle`, are responsible for listening to these events.
 3. These oracles run on all validators and call `submitSignature` on the `HomeBridgeNativeToErc` contract in the [Alltra Smartchain](https://alltra.global) network. Each validator submits a signature for each of the events.
 4. Once a majority of validators have submitted their signatures, an event `CollectedSignatures` is emitted by the home bridge (one event for each of the previous events).
-5. The bridge oracle `alltraoracle-collected-signatures` listens for the `CollectedSignatures` event. The validator responsible for transmitting the transaction to [ALL mainnet](https://alltra.global) is the last one to submit a signature in this cycle. Its address is included in the event details, so other validator oracles know it’s not their turn and will skip the event. If a validator is down, out of funds, or facing connectivity issues, the next one in line (as per the `ValidatorSet`) takes responsibility for transmitting to ALL mainnet.
+5. The bridge oracle `alltraoracle-collected-signatures` listens for the `CollectedSignatures` event. The validator responsible for transmitting the transaction to [ALL mainnet](https://alltra.global) is the last one to submit a signature in this cycle. Its address is included in the event details, so other validator oracles know it’s not their turn and will skip the event. If a validator is down, out of funds, or facing connectivity issues, the next one in line (as per the `ValidatorSet`) takes responsibility for transmitting to [ALL mainnet](https://alltra.global).
 6. On [ALL mainnet](https://alltra.global), we should see two transactions to the `ForeignBridgeNativeToErc` each cycle:
    1. One updating the new validators.
-   2. One minting the ALL coins created during this cycle on [Alltra Smartchain](https://alltra.global).
+   2. One minting the [ALL coins](https://www.alltraverse.com/express-checkout) created during this cycle on [Alltra Smartchain](https://alltra.global).
 
 ### Important Notes
 
-If the new validator set transaction fails on [ALL mainnet](https://alltra.global), there’s a chance the minting will fail as well. This is because the process checks if all signatures are valid before transmission. A situation could arise where new validators submit their signatures on Alltra Smartchain’s end-of-cycle transactions, but aren’t updated on ALL mainnet due to the failure of the initial transactions. In this case, the second transaction may contain “invalid” signatures from the perspective of ALL mainnet.
+If the new validator set transaction fails on [ALL mainnet](https://alltra.global), there’s a chance the minting will fail as well. This is because the process checks if all signatures are valid before transmission. A situation could arise where new validators submit their signatures on [Alltra Smartchain's](https://alltra.global) end-of-cycle transactions, but aren’t updated on [ALL mainnet](https://alltra.global) due to the failure of the initial transactions. In this case, the second transaction may contain “invalid” signatures from the perspective of [ALL mainnet](https://alltra.global).
 
 ### Example of a Successful Flow (from 7/6/2020)
 
