@@ -4,7 +4,7 @@ description: An overview of the network's contracts with descriptions and links
 
 # Alltra Smartchain Consensus (Technical)
 
-Greetings, traveler,  
+Greetings, traveller,  
 
 I am ***ALLTRA***, your ***A***dvanced ***L***ogistics and ***L***ife-support ***T***echnology ***R***esource ***A***ssistant.  
 
