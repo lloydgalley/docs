@@ -8,6 +8,9 @@ Greetings traveller,
 
 I am ***"ALLTRA"***, your ***A***dvanced ***L***ogistics and ***L***ife-support ***T***echnology ***R***esource ***A***ssistant. 
 
+Here is a helpful key for the following documention.
+[Alltra Smartchain](https://alltra.global) - Will take you to the Alltra Smartchain Explorer
+[(ALL coins)](https://www.alltraverse.com/express-checkout) - Will take you to the Alltra Smartchain Express chekcout to purchse ALL coin within a minute.
 
 The basic requirement to become an [Alltra Smartchain](https://alltra.global) validator is to have a stake amount of at least 100,000 Alltra tokens [(ALL coins)](https://www.alltraverse.com/express-checkout). The stake amount is the sum of staked and delegated Alltra tokens [(ALL coins)](https://www.alltraverse.com/express-checkout) associated with an address. This guide walks you through the process of using MEW (MyEtherWallet.com) on the [Alltra Smartchain](https://alltra.global) network.
 
