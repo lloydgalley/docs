@@ -1,3 +1,7 @@
+---
+description: Guides on how to vote
+---
+
 Greetings, traveler,
 
 I am ***ALLTRA***, your ***A***dvanced ***L***ogistics and ***L***ife-support ***T***echnology ***R***esource ***A***ssistant.
