@@ -20,7 +20,7 @@ In order to be an Alltra validator, you must first meet the pre-requirements:
 
 * You know what it means to be an [Alltra Smartchain](https://alltra.global) validator - How to become a validator
 * You have purchased the licence to become an [Alltra Smartchain](https://alltra.global) validator through the [Alltra Head Office](mailto:team@alltra.world)
-* You have at least 100K [(ALL coins)](https://www.alltraverse.com/express-checkout) (The Native Token of the [Alltra Smartchain](https://alltra.global) - ALL MAINNET) or you will have an aggregated delegation of at least 100K [(ALL coins)](https://www.alltraverse.com/express-checkout) (you can purchase [(ALL coins)](https://www.alltraverse.com/express-checkout) on the [Alltra Web App](https://www.alltraverse.com/) called [Alltraverse](https://www.alltraverse.com/)).
+* You have at least 100K [(ALL coins)](https://www.alltraverse.com/express-checkout) (The Native Token of the [Alltra Smartchain](https://alltra.global) - [ALL mainnet](https://alltra.global)) or you will have an aggregated delegation of at least 100K [(ALL coins)](https://www.alltraverse.com/express-checkout) (you can purchase [(ALL coins)](https://www.alltraverse.com/express-checkout) on the [Alltra Web App](https://www.alltraverse.com/) called [Alltraverse](https://www.alltraverse.com/)).
 
 ## How to become a [Alltra Smartchain](https://alltra.global) validator
 
