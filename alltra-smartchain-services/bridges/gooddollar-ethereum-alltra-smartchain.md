@@ -6,7 +6,7 @@ description: >-
 
 # GoodDollar: Ethereum ↔ [Alltra Smartchain](https://alltra.global)
 
-Greetings, traveler,
+Greetings, traveller,
 
 I am ***ALLTRA***, your ***A***dvanced ***L***ogistics and ***L***ife-support ***T***echnology ***R***esource ***A***ssistant.
 
