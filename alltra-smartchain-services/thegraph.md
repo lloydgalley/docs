@@ -1,53 +1,65 @@
 ---
 description: >-
-  Build of The Graph, we expose a GraphQL API to access the data on the Alltra
-  Network
+  Built on The Graph, we expose a GraphQL API to access the data on the Alltra
+  Network. - IN DEVELOPMENT!
 ---
 
-# TheGraph
+# The Graph
 
-## Deploying your own subgraph
+Greetings traveller, 
 
-TheGraph, a decentralized protocol for indexing and querying chain data, supports the Alltra Netork.Go to [https://thegraph.com/](https://thegraph.com/) to sign up and create your subgraph.
+I am ***"ALLTRA"***, your ***A***dvanced ***L***ogistics and ***L***ife-support ***T***echnology ***R***esource ***A***ssistant. 
 
-* Follow the instructions for how to deploy the subgraph
-* in `subgraph.yaml`, the network name should be `fuse`
+***Here is a helpful key for the following documention.***  
+[Alltra Smartchain](https://alltra.global) - Will take you to the Alltra Smartchain Explorer  
+[(ALL coins)](https://www.alltraverse.com/express-checkout) - Will take you to the Alltra Smartchain Express chekcout to purchse ALL coin within a minute.  
+[AlltraSonic Swap](https://alltrasonicswap.trade/) - Will take you to the Alltra Smartchain Hyper DEX (available on ALLMAINET, ETHEREUM MAINNET AND BINANCE CHAIN) 
+[ALL mainnet](https://alltra.global) - Another way to get to the Alltra Smartchain Explorer  
+[Alltra Team](mailto:team@alltra.world) - Email contact us for the Head Office of Alltra Smart Chain  
+  
+
+
+## Deploying Your Own Subgraph
+
+The Graph, a decentralized protocol for indexing and querying blockchain data, supports the [Alltra Smartchain](https://alltra.global) Network. Visit [The Graph](https://thegraph.com/) to sign up and create your subgraph.
+
+* Follow the instructions on how to deploy the subgraph.
+* In `subgraph.yaml`, the network name should be `[ALL mainnet](https://alltra.global)`.
 
 ## Available Subgraphs
 
-Subgraphs that builded and maintained by the Alltra team, deployed on Alltra internal infrastructure or The Graph hosted service.
+Subgraphs built and maintained by the [Alltra Team](mailto:team@alltra.world) are deployed on [Alltra Smartchain](https://alltra.global)'s internal infrastructure or The Graph's hosted service.
 
-### Fuseswap
+### [AlltraSonic Swap](https://alltrasonicswap.trade/)
 
-Historic price and stats of the FuseSwap DEX
+Historic price and stats of the [AlltraSonic Swap](https://alltrasonicswap.trade/) DEX.
 
-On TheGraph: [https://thegraph.com/explorer/subgraph/fuseio/fuseswap](https://thegraph.com/explorer/subgraph/fuseio/fuseswap)
+* **On The Graph:** [https://thegraph.com/explorer/subgraph/fuseio/fuseswap](https://thegraph.com/explorer/subgraph/fuseio/fuseswap)
+* **On [Alltra Smartchain](https://alltra.global) graph-node:** [https://thegraph.alltra.global/subgraphs/name/faktchain/fuseswap](https://thegraph.alltra.global/subgraphs/name/faktchain/fuseswap)
 
-on Alltra graph-node:  [https://thegraph.alltra.global/subgraphs/name/faktchain/fuseswap](https://thegraph.alltra.global/subgraphs/name/faktchain/fuseswap)
+### [Alltra Smartchain](https://alltra.global) Consensus
 
-### Alltra Consensus
+* **On The Graph:** [https://thegraph.com/explorer/subgraph/fuseio/fuse-consensus](https://thegraph.com/explorer/subgraph/fuseio/fuse-consensus)
+* **On [Alltra Smartchain](https://alltra.global) graph-node:** [https://thegraph.alltra.global/subgraphs/name/faktchain/fuse-consensus/graphql](https://thegraph.alltra.global/subgraphs/name/faktchain/fuse-consensus/graphql)
 
-on TheGraph: [https://thegraph.com/explorer/subgraph/fuseio/fuse-consensus](https://thegraph.com/explorer/subgraph/fuseio/fuse-consensus)
+### [Alltra Smartchain](https://alltra.global) Blocks
 
-on Alltra graph-node: [https://thegraph.alltra.global/subgraphs/name/faktchain/fuse-consensus/graphql](https://thegraph.alltra.global/subgraphs/name/faktchain/fuse-consensus/graphql)
+Block data of the [Alltra Smartchain](https://alltra.global) network.
 
-### Alltra Blocks
+* **On [Alltra Smartchain](https://alltra.global) graph-node:** [https://thegraph.alltra.global/subgraphs/name/faktchain/fuse-blocks/graphql](https://thegraph.alltra.global/subgraphs/name/faktchain/fuse-blocks/graphql)
 
-Block data of the Alltra
+### [Alltra Smartchain](https://alltra.global) Entities
 
-on Alltra graph-node: [https://thegraph.alltra.global/subgraphs/name/faktchain/fuse-blocks/graphql](https://thegraph.alltra.global/subgraphs/name/faktchain/fuse-blocks/graphql)
+Businesses and other entities on the [Alltra Smartchain](https://alltra.global) network.
 
-### Alltra Entities
+* **On The Graph:** [https://thegraph.com/explorer/subgraph/fuseio/fuse-entities](https://thegraph.com/e
 
-Businesses and other entities on the Alltra
 
-One TheGraph: [https://thegraph.com/explorer/subgraph/fuseio/fuse-entities](https://thegraph.com/explorer/subgraph/fuseio/fuse-entities)
+ I am always at your service.  
+   May fortune favor you.  
+  
+   ***THANK YOU AND HAPPY TRAVELS***  
+  
+***ALLTRA***   
 
-on Alltra graph-node:  [https://thegraph.alltra.global/subgraphs/name/faktchain/fuse-entities/graphql](https://thegraph.alltra.global/subgraphs/name/faktchain/fuse-entities/graphql)
-
-### Alltra Bridge
-
-List of tokens bridged to the Alltra network.
-
-on Alltra graph-node: [https://thegraph.alltra.global/subgraphs/name/faktchain/fuse-ethereum-bridge/graphql](https://thegraph.alltra.global/subgraphs/name/faktchain/fuse-ethereum-bridge/graphql)
 
