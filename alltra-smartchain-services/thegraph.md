@@ -15,7 +15,7 @@ I am ***"ALLTRA"***, your ***A***dvanced ***L***ogistics and ***L***ife-support 
 [(ALL coins)](https://www.alltraverse.com/express-checkout) - Will take you to the Alltra Smartchain Express chekcout to purchse ALL coin within a minute.  
 [AlltraSonic Swap](https://alltrasonicswap.trade/) - Will take you to the Alltra Smartchain Hyper DEX (available on ALLMAINET, ETHEREUM MAINNET AND BINANCE CHAIN)   
 [ALL mainnet](https://alltra.global) - Another way to get to the Alltra Smartchain Explorer  
-[Alltra Team](mailto:team@alltra.world) - Email contact us for the Head Office of Alltra Smart Chain  
+[Alltra Team](mailto:team@alltra.world) - Email 'contact us' for the Head Office of Alltra Smart Chain  
   
 
 
