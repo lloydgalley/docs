@@ -1,18 +1,27 @@
 ---
-description: Integrate your product to your community and token trough the Studio API.
+description: Integrate your product into your community and token through the Studio API.
 ---
 
 # Studio API
 
-## fuse-studio-backend v0.1.0
+Greetings traveller, 
 
-The Alltra Studio REST API for accessing the data and the services of the Alltra network in a simple way. You can use this API to query and interact with the objects of the Alltra network such as: Communities, Tokens, Bridges and Entities.
+I am ***"ALLTRA"***, your ***A***dvanced ***L***ogistics and ***L***ife-support ***T***echnology ***R***esource ***A***ssistant. 
+
+***Here is a helpful key for the following documention.***  
+[Alltra Smartchain](https://alltra.global) - Will take you to the Alltra Smartchain Explorer  
+[(ALL coins)](https://www.alltraverse.com/express-checkout) - Will take you to the Alltra Smartchain Express chekcout to purchse ALL coin within a minute.  
+
+
+## alltra-studio-backend v0.1.0
+
+The [Alltra Smartchain](https://alltra.global) Studio REST API allows you to access the data and services of the Alltra network in a simple way. You can use this API to query and interact with objects on the [Alltra Smartchain](https://alltra.global) network, such as Communities, Tokens, Bridges, and Entities.
 
 ## Bridge
 
 ### Fetch bridge
 
-The token bridge connects the Ethereum and Alltra network
+The token bridge connects the Ethereum and [Alltra Smartchain](https://alltra.global) networks.
 
 ```text
 GET /bridges/:homeTokenAddress
@@ -70,7 +79,7 @@ POST /communities/:communityAddress
 
 ### Fetch community
 
-Community is a set of contracts and services. Members of the community are users of the Alltra network. The community is configured via the plugins.
+Community is a set of contracts and services. Members of the community are users of the [Alltra Smartchain](https://alltra.global) network. The community is configured via the plugins.
 
 ```text
 GET /communities/:communityAddress
@@ -139,7 +148,7 @@ GET /entities/:communityAddress
 
 ### Fetch entity
 
-Entity is an account on the Alltra network. It can have variety of roles like user, admin, business, or custom defined role.
+Entity is an account on the [Alltra Smartchain](https://alltra.global) network. It can have variety of roles like user, admin, business, or custom defined role.
 
 ```text
 GET /entities/:communityAddress/:account
@@ -169,7 +178,7 @@ GET /entities/:communityAddress/:account
 
 ### Fetch token
 
-Tokens are compatible with the TL20 standard, and they also can be burnable/mintable. Tokens are an important part of the community economy.
+Tokens are compatible with the ACR20 [(ALL coins)](https://www.alltraverse.com/express-checkout) standard, and they also can be burnable/mintable. Tokens are an important part of the community economy.
 
 ```text
 GET /tokens/:address
@@ -194,7 +203,7 @@ GET /tokens/:address
 | factoryAddress | `String` | Factory contract that created the token |
 | blockNumber | `String` | Block number of the token's creation |
 | tokenType | `String` | Token type: basic/mintableBurnable/imported |
-| networkType | `String` | Network type where the token is issued: mainnet/ropsten/fuse |
+| networkType | `String` | Network type where the token is issued: mainnet/ropsten/alltra |
 
 ### Fetch tokens
 
@@ -206,7 +215,7 @@ GET /tokens
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| networkType | `String` | mainnet/ropsten/fuse |
+| networkType | `String` | mainnet/ropsten/alltra |
 | page | `Number` | Page number for pagination |
 
 #### Success 200
@@ -226,7 +235,7 @@ GET /tokens/owner/:owner
 | Name | Type | Description |
 | :--- | :--- | :--- |
 | owner | `String` | account address of the token owner |
-| networkType | `String` | mainnet/ropsten/fuse |
+| networkType | `String` | mainnet/ropsten/alltra |
 
 #### Success 200
 
@@ -234,3 +243,9 @@ GET /tokens/owner/:owner
 | :--- | :--- | :--- |
 | - | `Object[]` | List of Tokens. See GetToken endpoint for token fields |
 
+ I am always at your service.  
+   May fortune favor you.  
+  
+   ***THANK YOU AND HAPPY TRAVELS***  
+  
+***ALLTRA***   
