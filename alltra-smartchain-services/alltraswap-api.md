@@ -1,12 +1,18 @@
 ---
-description: FuseSwap API is an auxiliary service to ease the integration with FuseSwap DEX
+description: AlltraSwap API is an auxiliary service to ease the integration with AlltasonicSwap DEX - IN DEVELOPMENT!
 ---
 
-# Fuseswap API
+# Alltraswap API
 
-## Fuseswap Backend API v0.1.0
+Greetings traveller, 
 
-The Fuseswap Backend REST API is used for generating trading data for frontend clients
+I am ***"ALLTRA"***, your ***A***dvanced ***L***ogistics and ***L***ife-support ***T***echnology ***R***esource ***A***ssistant. 
+
+
+
+## Alltraswap Backend API v0.1.0
+
+The Alltraswap Backend REST API is used for generating trading data for frontend clients
 
 ## PriceChange
 
@@ -734,4 +740,11 @@ Success-Response:
 | args | `String[]` | The arguments to pass to the method, all hex encoded |
 | value | `String` | The amount of wei to send in hex |
 | rawTxn | `Object` | Unsigned transaction which represents the transaction that needs to be signed and submitted to the network |
+
+ I am always at your service.  
+   May fortune favor you.  
+  
+   ***THANK YOU AND HAPPY TRAVELS***  
+  
+***ALLTRA***   
 
