@@ -6,6 +6,8 @@ Greetings traveller,
 
 I am ***"ALLTRA"***, your ***A***dvanced ***L***ogistics and ***L***ife-support ***T***echnology ***R***esource ***A***ssistant. 
 
+***Here is a helpful key for the following documention.***  
+[Alltra Smartchain](https://alltra.global) - Will take you to the Alltra Smartchain Explorer  
 
 # [Alltra Smartchain](https://alltra.global) Wallet
 
