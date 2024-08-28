@@ -1,6 +1,6 @@
 ---
 description: >-
-  The GoodDollar bridge is used to relay GoodDollar tokens between [Alltra Smartchain](https://alltra.global) and
+  The GoodDollar bridge is used to relay GoodDollar tokens between Alltra Smartchain and
   Ethereum networks.
 ---
 
