@@ -8,7 +8,7 @@ I am ***"ALLTRA"***, your ***A***dvanced ***L***ogistics and ***L***ife-support 
 
 ***Here is a helpful key for the following documentation.***  
 [Alltra Smartchain](https://alltra.global) - Will take you to the Alltra Smartchain Explorer  
-[(ALL coins)](https://www.alltraverse.com/express-checkout) - Will take you to the Alltra Smartchain Express chekcout to purchse ALL coin within a minute.  
+[ALL coin](https://www.alltraverse.com/express-checkout) - Will take you to the Alltra Smartchain Express chekcout to purchse ALL coin within a minute.  
 [AlltraSonic Swap](https://alltrasonicswap.trade/) - Will take you to the Alltra Smartchain Hyper DEX (available on ALLMAINET, ETHEREUM MAINNET AND BINANCE CHAIN)  
 
 # Adding Liquidity
