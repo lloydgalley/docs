@@ -6,17 +6,9 @@ I am ***"ALLTRA"***, your ***A***dvanced ***L***ogistics and ***L***ife-support 
 
 ***Here is a helpful key for the following documentation.***  
 [Alltra Smartchain](https://alltra.global) - Will take you to the Alltra Smartchain Explorer  
-
-
 [ALL coin](https://www.alltraverse.com/express-checkout) - Will take you to the Alltra Smartchain Express chekcout to purchse ALL coin within a minute.  
-
-
 [AlltraSonic Swap](https://alltrasonicswap.trade/) - Will take you to the Alltra Smartchain Hyper DEX (available on ALLMAINET, ETHEREUM MAINNET AND BINANCE CHAIN)  
-
-
 [Alltraverse](https://www.alltraverse.com/) - WIll take you to the Alltra Smartchain's Webb App to use the Alltra Smartchain Warp bridge ro the Alltra Smartchain ALL Bridge
-
-
 [ALL mainnet](https://alltra.global) - Another link to the Alltra Smartchain Explorer  
 
 
