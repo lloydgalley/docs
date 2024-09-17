@@ -1,29 +1,63 @@
-# Migration tutorial
+# Migration Tutorial
 
-If you would like to watch the below tutorial through a video please follow [this link.](https://www.youtube.com/watch?v=lAT2RAH7t1Q)
+Greetings traveller, 
 
-We have recently upgraded the smart contract for WETH on Alltra. The below tutorial will explain how to migrate the old wrapper tokens to the updated contract WETH, if you are holding the deprecated version of WETH on Alltra network in your wallet.
+I am ***"ALLTRA"***, your ***A***dvanced ***L***ogistics and ***L***ife-support ***T***echnology ***R***esource ***A***ssistant. 
 
-**Step 1:** Navigate to [https://fuseswap.com](https://fuseswap.com/). The interface will look as shown below
+***Here is a helpful key for the following documentation.***  
+[Alltra Smartchain](https://alltra.global) - Will take you to the Alltra Smartchain Explorer  
 
-![](../.gitbook/assets/0%20%2811%29.png)
 
-Use the “Connect to a wallet” button on the right hand top corner to connect your wallet to FuseSwap. Once you connect you should be able to see your wallet address and see the network you are connected to \(in this case, Alltra\).
+[ALL coin](https://www.alltraverse.com/express-checkout) - Will take you to the Alltra Smartchain Express chekcout to purchse ALL coin within a minute.  
 
-![](../.gitbook/assets/1%20%2813%29.png)
 
-**Step 2:** Click on “Bridge”. When you click on “Select a token” if you have the Deprecated WETH, it will show on the balance on the dropdown menu, as shown below. Select “WETH \(Deprecated\)” there, and  
-and enter the amount of WETH you want to transfer from Alltra network to BSC. Click on “Approve WETH” and approve the transaction on Metamask. Once you approve the interface will look as shown below.
+[AlltraSonic Swap](https://alltrasonicswap.trade/) - Will take you to the Alltra Smartchain Hyper DEX (available on ALLMAINET, ETHEREUM MAINNET AND BINANCE CHAIN)  
 
-FuseSwap automatically prompts you to migrate to the new contract as shown below.
 
-![](../.gitbook/assets/3%20%2813%29.png)
+[Alltraverse](https://www.alltraverse.com/) - WIll take you to the Alltra Smartchain's Webb App to use the Alltra Smartchain Warp bridge ro the Alltra Smartchain ALL Bridge
 
-Click on “Approve WETH \(Deprecated\)” and approve the transaction on your wallet. Once the transaction is confirmed you can click on “Migrate”.
 
-![](../.gitbook/assets/4%20%2813%29.png)
+[ALL mainnet](https://alltra.global) - Another link to the Alltra Smartchain Explorer  
 
-![](../.gitbook/assets/5%20%289%29.png)
 
-Once the second transaction is confirmed the Deprecated WETH is migrated to the updated contract address. You can verify this by clicking on the dropdown menu again and the new balance would be updated as shown in the above image.
+If you would like to watch this tutorial as a video, please follow [HyperDex (HYDX)](https://www.youtube.com/@HyperDexSocials).
+
+
+### Step 1: Connect Your Wallet
+
+Navigate to [AlltraSonic Swap](https://alltrasonicswap.trade/)
+.  
+
+Use the **“Connect to a wallet”** button in the top right corner to connect your wallet to [AlltraSonic Swap](https://alltrasonicswap.trade/)
+. Once connected, you should see your wallet address and the network you're connected to (in this case, the [ALL mainnet](https://alltra.global)).
+
+
+### Step 2: Bridge Your Tokens
+
+Click on **“Swap”**. When you click on **“Select a token”**. Click on **“Approve”** and approve the transaction in MetaMask.
+
+Once you approve, [AlltraSonic Swap](https://alltrasonicswap.trade/)
+ will automatically prompt you to migrate to the new contract.  
+
+
+### Step 3: Migrate WALL
+
+Click on **“Approve WALL”** and approve the transaction in your wallet. Once the transaction is confirmed, click on **“Migrate”**.
+
+
+Once the second transaction is confirmed, the WALL will be migrated to the updated contract address. You can verify this by checking the dropdown menu again, where the updated WALL balance will be reflected.
+
+---
+
+You can now copy and paste this directly into your GitHub Markdown file and commit the change. Let me know if you need any further assistance!
+
+
+ I am always at your service.  
+   May fortune favor you.  
+  
+   ***THANK YOU AND HAPPY TRAVELS***  
+  
+***ALLTRA***   
+
+
 
